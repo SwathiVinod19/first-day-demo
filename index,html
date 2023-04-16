@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>First Class HTML</title>
 </head>
+
 <body>
      <header>
       <!-- Header Elements -->
@@ -47,19 +48,6 @@
 <header>
   <h1>HELLO WORLD</h1>
   <h1>Hello World</h1>
-  <h1>hello world</h1>
+
 </header>
 </body>
-=======
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Demo Class</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-	<script src="index.js"></script>
-  </body>
->>>>>>> e97599f96bab54b2b654a34578bb9faf8e650372
-</html>
