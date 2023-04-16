@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>First Class HTML</title>
+</head>
+<body>
+     <header>
+      <!-- Header Elements -->
+      <h1>Test Header</h1>
+      <p>With every time you increase the header number, the size will reduce.</p> 
+      <p>  h1 is the largest and so on.</p>
+      <h2>Test Header2</h2>
+      <h3>Test Header3</h3>
+      <h4>Test Header4</h4>
+      <h5>Test Header5</h5>
+      <h6>Test Header6</h6>
+    </header>
+
+  <img src="https://via.placeholder.com/200" alt="Placeholder Image"/>
+  <p>
+    This is a paragraph!
+    <strong>I am Bold!</strong>
+  </p>
+  
+  
+<ul>
+  <li>Element 1</li>
+  <li>Element 2</li>
+  <li>Element 3</li>
+</ul>
+
+<ul>
+  <li>Test Element</li>
+  <li>Test Element</li>
+  <li>Test Element</li>
+  <li>Test Element</li>
+  <li>Test Element</li>
+</ul>
+
+<a href="https://google.com">Click Me</a>
+
+
+<header>
+  <h1>HELLO WORLD</h1>
+  <h1>Hello World</h1>
+  <h1>hello world</h1>
+</header>
+</body>
+</html>
